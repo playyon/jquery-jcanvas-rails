@@ -3,7 +3,7 @@ PATH
   specs:
     jquery-jcanvas-rails (5.5)
       jquery-rails
-      rails (~> 3.2.8)
+      rails (~> 3.2)
 
 GEM
   remote: http://rubygems.org/
