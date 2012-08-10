@@ -1,7 +1,8 @@
 PATH
   remote: .
   specs:
-    jquery-jcanvas-rails (0.0.1)
+    jquery-jcanvas-rails (0.1)
+      jquery-rails
       rails (~> 3.2.8)
 
 GEM

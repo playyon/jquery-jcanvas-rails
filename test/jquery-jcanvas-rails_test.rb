@@ -1,7 +1,7 @@
 require 'test_helper'
 
-class JqueryJcanvasRailsTest < ActiveSupport::TestCase
+class ModuleTest < ActiveSupport::TestCase
   test "truth" do
-    assert_kind_of Module, JqueryJcanvasRails
+    assert_kind_of Module, Jquery::Jcanvas::Rails
   end
 end
