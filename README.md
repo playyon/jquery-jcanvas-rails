@@ -1,3 +1,5 @@
+Don't use this! Use this: https://github.com/RobAtHedtek/jquery-jcanvas-rails
+
 jquery-jcanvas-rails
 ====================
 
